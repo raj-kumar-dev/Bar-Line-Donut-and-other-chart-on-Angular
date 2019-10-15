@@ -1,6 +1,11 @@
 # Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+Run - node server.js for realtime experience.
+
+## External Packages
+
+Body-Parser, Cors, Express and Chart.js
 
 ## Development server
 
